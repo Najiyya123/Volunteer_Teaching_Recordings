@@ -11,6 +11,7 @@ As a full-time software engineer, my commitment to teaching allows me to give ba
 # **📽️ Lecture 1 Recording**
 1. JavaScript Fundamentals for Beginners
 ⏱️ Duration: 1.5 Hours
-🎥 Watch Recording (Link coming soon!)
+## 🎥 Watch Recording [1.5 hours recording video](https://drive.google.com/file/d/1uJVjnxyAqxXbUoqOCgofDBd0b-ohVJG4/view?usp=drive_link)
+
 
 
